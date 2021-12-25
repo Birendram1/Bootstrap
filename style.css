@@ -1,0 +1,100 @@
+.cardx{
+    border-top: dashed 2px red;
+    border-bottom: dashed 2px red;
+    border-left: dashed 2px red;
+    border-right: dashed 2px red;
+    box-shadow: 0px 8px 15px;
+   overflow: hidden;
+}
+.cardx img:hover{
+  transform: scale(1.1,1.1);
+}
+.card:hover{
+    box-shadow: 0px 8px 15px black;
+
+}
+p{
+    color: blanchedalmond;
+}
+.card-text{
+    color: black;
+}
+.cardd{
+    box-shadow: 0px 8px 15px;
+}
+.card-img{
+    transition: all 2s;
+    transform: scale(1.2,1,2);
+}
+
+h6{
+    color:white;
+}
+a{
+    color: blanchedalmond;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+/*
+ <div class="container-fluid mt-5" style="background-color: black;">
+    <div class="row">
+      <div class="col-md-3 mt-3 col-12">
+        <h5 class="class" style="color: white;">A2Z Shopping</h5>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde mollitia eum doloremque officiis nihil at
+          blanditiis, aliquam ipsa ducimus consectetur dignissimos adipisci ut sed fuga repellat rerum soluta eaque
+          placeat.</p>
+      </div>
+      <div class="col-md-3 mt-3 col-12">
+        <h5 class="class" style="color: white;">Products</h5>
+      <ul>
+          <li>
+            <p><a href="#">Clothes</a></p>
+          </li>
+          <li>
+            <p><a href="#">Mobile & Accessories</a></p>
+          </li>
+          <li>
+            <p><a href="#">Shoes</a></p>
+          </li>
+          <li>
+            <p><a href="#">Grocessry</a></p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 mt-3 col-12">
+        <h5 class="class" style="color: white;">Services</h5>
+        <ul>
+          <li>
+            <p><a href="#"><i class="fa fa-truck mr-2"></i>Free Shipping</a></p>
+          </li>
+          <li>
+            <p><a href="#">24*7 Support</a></p>
+          </li>
+          <li>
+            <p><a href="#">Online Payment</a></p>
+          </li>
+          <li>
+            <p><a href="#">Eaqsy returns</a></p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-3 mt-3 col-12">
+        <h5 class="class" style="color: white;">Contact</h5>
+        <p> <i class="fa fa-home mx-3"></i>Adityapur</p>
+        <p> <i class="fa fa-envelope mx-3"></i>a2zshopping@gmail.com</p>
+        <p> <i class="fa fa-phone mx-3"></i>+18763654980</p>
+        <p> <i class="fa fa-print mx-3"></i>+21768560376</p>
+      </div>
+      <div class="col-md-8 mt-5 pt-2 col-12">
+        <p>@Copyright<a href="#"><strong>A2Z Shopping.com</strong></a></p>
+      </div>
+      <div class="col-md-4 mt-5 pt-2 col-12">
+
+      </div>
+    </div>
+  </div>
+
+  
+*/
